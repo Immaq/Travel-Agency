@@ -6,4 +6,9 @@ p {
 }
 .tropical {
     font-family: fantasy;
+    color: aquamarine;
+}
+.popular {
+    font-family: Tahoma;
+    color: green;
 }
